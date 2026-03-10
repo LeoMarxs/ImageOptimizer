@@ -2,7 +2,7 @@
 
 > Compressor e conversor de imagens para web, disponível como **interface web** (HTML puro) e como **script Python** para uso em lote via terminal.
 
-by [Leoarxs](https://github.com/Leoarxs)
+by [LeoMarks](https://github.com/Leoarxs)
 
 ---
 
