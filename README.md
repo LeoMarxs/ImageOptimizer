@@ -4,6 +4,8 @@
 
 by [LeoMarks](https://github.com/Leoarxs)
 
+Acesse em https://leomarxs.github.io/ImageOptimizer/
+
 ---
 
 ## 📋 Índice
